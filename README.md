@@ -1,1 +1,1 @@
-Material for the presentations at JavaSlava 2013 (http://javaslava.sk)
+Material for the presentations at OpenSlava 2013 (http://openslava.sk)
